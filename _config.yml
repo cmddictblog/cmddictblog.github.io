@@ -1,12 +1,12 @@
-title: John Smith
-description: My Personal Blog
-author: John Smith
+title: Linux command dictionary
+description: A dictionary for linux command
+author: Jingjing Shi
 logo: /hcz-jekyll-blog/static/img/avatar.png
 github: https://github.com/codeasashu
 about: Freelance developer
 
-baseurl: ""
-url: ""
+baseurl: "https://cmddictblog.github.io"
+url: "https://cmddictblog.github.io"
 
 allowsearch: true
 
