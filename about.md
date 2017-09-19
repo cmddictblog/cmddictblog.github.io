@@ -9,3 +9,11 @@ This is the base Jekyll theme. You can find out more info about customizing your
 You can find the source code for this Jekyll theme at: [github.com/ashutosh2k12/hcz-jekyll-blog](https://github.com/ashutosh2k12/hcz-jekyll-blog)
 
 You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+
+{% highlight ruby %}
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
+{% endhighlight %}
